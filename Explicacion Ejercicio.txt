@@ -1,0 +1,6 @@
+En este ejercico encontraras diferentes terrenos los cuales el sonido de los pasos va canviar dependiendo del material.
+Hay 4 materiales distintos. El audio esta hecho tambien des de las blue prints del character.
+El personaje cuando salta hace ruido.
+He añadido una musica de fondo, una cosa sencilla.
+Y tambien he añadido un sonido de la mejor cancion de la historia que suena de fondo pero cuando te acercas a una de las cajas azules entonces suena mucho mas.
+En la carpeta sounds estan todos los audios utilizados.
